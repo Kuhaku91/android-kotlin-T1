@@ -1,0 +1,2 @@
+rootProject.name = "Tugas2"
+include ':app'
